@@ -2,10 +2,12 @@
   ## Table of Content 
    1. [Description](#Description)
    2. [Installation](#Installation)
-   3. [Usage](#Usage)   
-   4. [Credit](#Credit)
-   5. [Questions](#Questions?)
-   6. [License](#Licensing)
+   3. [Usage](#Usage)
+   4. [Screenshot](#Screenshot)
+   5. [Credit](#Credit)
+   6. [Questions](#Questions?)
+   7. [License](#Licensing)
+
    
   ## Description 
     The fitness tracker app will allow users to track workout routines. Users will be able to add any resistance and/or cardio based routines and track their progress through the user dashbord.  
