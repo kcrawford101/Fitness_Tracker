@@ -10,16 +10,16 @@
 
    
   ## Description 
-    The fitness tracker app will allow users to track workout routines. Users will be able to add any resistance and/or cardio based routines and track their progress through the user dashbord.  
+  The fitness tracker app will allow users to track workout routines. Users will be able to add any resistance and/or cardio based routines and track their progress through the user dashbord.  
 
   ## Installation 
   [**Visit deployed link on heroku**](https://stark-lowlands-17260.herokuapp.com/)
 
   ## Usage 
-    Click on 'New Workout' to add a new routine or 'Continue Workout' to continue any existing routines.
+  Click on 'New Workout' to add a new routine or 'Continue Workout' to continue any existing routines.
 
   ## Screenshot
-  ![](Assets\images\Fitness_Tracker.jpg)  
+ <img src= 'Assets\images\Fitness_Tracker.jpg' width="750" height="350"> 
 
   ## Credit
   - UofT Bootcamp Assistant Instructor: **Luca Beyrute**  
