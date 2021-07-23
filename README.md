@@ -17,7 +17,7 @@
     Click on 'New Workout' to add a new routine or 'Continue Workout' to continue any existing routines.
 
   ## Screenshot
-  ![](Assets\images\Fitness_Tracker.jpg50x50)  
+  ![](Assets\images\Fitness_Tracker.jpg)  
 
   ## Credit
   - UofT Bootcamp Assistant Instructor: **Luca Beyrute**  
